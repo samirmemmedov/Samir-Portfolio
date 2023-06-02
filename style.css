@@ -40,10 +40,10 @@
 }
 
 .name {
-  font-size: 18vw;
+  font-size: 15vw;
   color: #333;
   cursor: default;
-  text-align: center;
+  text-align:start;
   line-height: 100vh;
 }
 
